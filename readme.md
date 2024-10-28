@@ -31,3 +31,7 @@ The base URL for the API is:
    - **Description**: Retrieves detailed information about a specific news article.
    - **Path Parameter**:
      - `news_id` (string): The unique ID of the news article.
+    
+## Layout Documentation
+There will be three layour for the project.  watch below  designs to understand layout structure/
+- The Root Layout will have Header , Nav , Footer,  Left-Aside , Right-Aside and main content 
